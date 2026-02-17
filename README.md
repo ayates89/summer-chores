@@ -7,5 +7,5 @@ This project simulates working through a chore list. The script runs through a s
 
 
 ## How to Run
-Run the following comman in your terminal:
+Run the following command in your terminal:
 node callbackVersion.js
