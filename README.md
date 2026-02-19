@@ -4,8 +4,12 @@ This project simulates working through a chore list. The script runs through a s
 ## Technical requirements
 *uses 'setTimeout' to simulate duration of the chore
 *includes a random chance for the person to fall asleep before the chore is completed
+*asynchronous JavaScript
+*promises
 
 
 ## How to Run
-Run the following comman in your terminal:
-node callbackVersion.js
+1. Clone the repository
+2. Navigate into the project file
+3. Run the file using node
+

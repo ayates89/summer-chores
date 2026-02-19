@@ -1,0 +1,19 @@
+{
+  "name": "summer-chores",
+  "version": "1.0.0",
+  "description": "Summer Chores\r This project simulates working through a chore list. The script runs through a sequence of tasks to determine if you completed the chore or fell asleep.",
+  "main": "callbackVersion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayates89/summer-chores.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayates89/summer-chores/issues"
+  },
+  "homepage": "https://github.com/ayates89/summer-chores#readme"
+}
