@@ -6,6 +6,7 @@ This project simulates working through a chore list. The script runs through a s
 *includes a random chance for the person to fall asleep before the chore is completed
 *asynchronous JavaScript
 *promises
+*async/await
 
 
 ## How to Run
